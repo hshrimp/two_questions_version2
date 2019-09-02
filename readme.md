@@ -14,11 +14,11 @@
 基于中文训练的BERT模型
 基于keras,使用keras_bert这个包
 
-##数据
+## 数据
 数据出自以下论文，原本是问句匹配的数据：
 LCQMC: A Large-scale Chinese Question Matching Corpus
 
-##过程
+## 过程
 1、随机抽取问句，两句拼成一句为输入数据X，并记录拼接的位置，即为标签Y。
     若是单独的问句，标签位置为该问句长度。
 2、训练数据大概使用了（16000+16000）条sample的情况下，
