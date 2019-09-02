@@ -1,4 +1,4 @@
-# :art Two Questions vesion2
+# :art: Two Questions vesion2
 ## 备注：version1 见 https://github.com/hshrimp/two_questions
 
 这个项目在于解决用户有时候提问题会连着提的情况。
